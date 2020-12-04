@@ -321,3 +321,9 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+* Udemy: https://www.udemy.com/course/learn-python-programming-from-a-z/learn/lecture/23308848?start=0#overview
+
+* edx, ,,CS50": https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
+
+* Yt, ,,Commit • GitHub & Git Foundations" : https://www.youtube.com/watch?v=A-Cll9jEnnM&ab_channel=GitHubTraining%26Guides
